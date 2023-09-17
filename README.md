@@ -1,6 +1,6 @@
 ![logo](https://github.com/IshaKelkar/IshaKelkar/blob/main/Git-Banner.jpg)
 <h1 align="center">Hey! I'm Isha</h1>
-<img align="right" alt="coding" width="320" src="https://i.pinimg.com/originals/28/5f/e5/285fe5f687cbe6990bd5712b0c02ae5a.gif"> 
+<img align="right" alt="coding" width="320" src="https://camo.githubusercontent.com/b2df4db0b9fd1f64d5d9e0986aa3aba486d81bf1dd1c7e3c8f557c33a08d935b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32382f35662f65352f32383566653566363837636265363939306264353731326230633032616535612e676966"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakelkar&label=Profile%20views&color=0e75b6&style=flat" alt="ishakelkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@isha_kelkar" target="blank"><img src="https://img.shields.io/twitter/follow/@isha_kelkar?logo=twitter&style=for-the-badge" alt="@isha_kelkar" /></a> </p>
