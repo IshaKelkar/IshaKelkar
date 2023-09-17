@@ -3,12 +3,13 @@
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakelkar&label=Profile%20views&color=0e75b6&style=flat" alt="ishakelkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@isha_kelkar" target="blank"><img src="https://img.shields.io/twitter/follow/@isha_kelkar?logo=twitter&style=for-the-badge" alt="@isha_kelkar" /></a> </p>
 
 - 📫 How to reach me **ishakelkar0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@isha_kelkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@isha_kelkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishakelkar&show_icons=true&locale=en" alt="ishakelkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishakelkar&" alt="ishakelkar" /></p>
-
