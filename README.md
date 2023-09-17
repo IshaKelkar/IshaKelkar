@@ -1,4 +1,4 @@
-![logo](https://github.com/IshaKelkar/IshaKelkar/blob/main/98fddfd05a2f810593acb089728c9e38.gif)
+![logo](https://github.com/IshaKelkar/IshaKelkar/blob/main/Git-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Isha</h1>
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakelkar&label=Profile%20views&color=0e75b6&style=flat" alt="ishakelkar" /> </p>
