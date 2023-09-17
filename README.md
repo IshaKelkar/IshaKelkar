@@ -1,9 +1,7 @@
 ![logo](https://github.com/IshaKelkar/IshaKelkar/blob/main/Git-Banner.jpg)
-<h1 align="center">Hi 👋, I'm Isha</h1>
+<h1 align="center">Hey! I'm Isha</h1>
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishakelkar&label=Profile%20views&color=0e75b6&style=flat" alt="ishakelkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishakelkar" alt="ishakelkar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -21,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishakelkar&show_icons=true&locale=en" alt="ishakelkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishakelkar&" alt="ishakelkar" /></p>
+
